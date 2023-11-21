@@ -1,0 +1,89 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+  
+
+}
+
+
+header{
+  background-color: #E44723;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logos{
+  display: flex;
+}
+
+.logos img{
+  width: 100px;
+  
+  margin: 10px;
+}
+
+section{
+  display: flex;
+  align-items: center;
+}
+
+section .area_de_envio{
+  background-color: #e4462393;
+  border-radius: 3em;
+  display: flex;
+  flex-direction: column;
+  padding: 1em;
+  margin: 2em 1em 0em 10em
+}
+
+section h1{
+  font-size: 1.5em;
+  
+  text-align: center;
+  margin: 1em;
+}
+
+section img{
+  height: 30em;
+  margin: 2em;
+}
+
+section input{
+  width: 15em;
+  height: 2em;
+  border-radius: 1em;
+  border: none;
+  padding: 1em;
+  margin: 0 auto;
+  margin-top: 1em;
+  font-size: 1em;
+}
+
+section input::placeholder{
+  font-size: 1em;
+}
+
+section .btn{
+  text-align: center;
+  text-decoration: none;
+  font-weight: bold;
+  width: 16em;
+  background-color: #E44723;
+  border-radius: 2em;
+  border: none;
+  padding: 1em 1em;
+  margin: 0 auto;
+  margin-top: 2em;
+  color: white;
+  font-size: 1em;
+}
+
+.area_de_envio img{
+  height: 8em;
+  margin: auto;
+
+}
