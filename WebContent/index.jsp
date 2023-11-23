@@ -18,7 +18,7 @@
   </header>
 
   <section>
-    <img src="./assets/images/form.png" alt="Ilustração de um homem segurando um formulário">
+    <img class="img_exam" src="./assets/images/form.png" alt="Ilustração de um homem segurando um formulário">
 
     <form class="area_de_envio" action="Prediction" method="POST">
       <h1>Anexe aqui o exame que você realizou</h1>

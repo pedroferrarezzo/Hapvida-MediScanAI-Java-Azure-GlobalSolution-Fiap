@@ -15,7 +15,7 @@
 </head>
 <body>
 	<header>
-		<a href="../../index.html">
+		<a href="${pageContext.request.contextPath}/index.jsp">
 			<div class="logos">
 				<img
 					src="${pageContext.request.contextPath}/assets/images/hapvida-logo.png"
