@@ -28,7 +28,7 @@ MediScanAI é uma aplicação web destinada a análise/predição de imagens de 
 Devolver ao usuário as possíveis patologias apresentadas na imagem concecida a aplicação, tudo isto por meio de tags em um modelo de machine learning previamente treiando de forma supervisionada.
 
 ## Tecnologias Utilizadas
-
+- **Custom Vision - Azure:** Solução de machine learning direcionada para classificação de imagens e detecção de objetos (Consumida via API Json);
 - **Java:** Linguagem de programação principal (Linguagem de Backend);
   - **Classes Java Bean:** Classes entity relacionadas ao modelo de negócio desenvolvidas de acordo com a especificação Java Bean (Camada Model);
   - **Servlets:** Classes extendidas de HttpServlet responsáveis por tratar requisições HTTP (GET ou POST) vindas do client, além de realzar a integração com as classes DAO/Entity (Camada Controller);
