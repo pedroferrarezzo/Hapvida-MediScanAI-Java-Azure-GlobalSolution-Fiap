@@ -4,17 +4,16 @@
 - Projeto desenvolvido em parceria com a empresa Notredame Intermédica;
 - Observação: Projeto desenvolvido para estudo, sem fins comerciais.
 
-### Hands On
-
-https://github.com/pedroferrarezzo/MediScanAI-Notredame-FIAP/assets/124400471/6e9c8f26-5cf7-4d47-845a-c6649f2e3272
-
-
 ## Pré-requisitos
 
 - JDK 17(+);
 - JRE 1.8(+);
 - Apache Tomcat 9;
 - Instância Custom Vision - Cloud Provider Azure.
+
+### Hands On
+
+https://github.com/pedroferrarezzo/MediScanAI-Notredame-FIAP/assets/124400471/6e9c8f26-5cf7-4d47-845a-c6649f2e3272
 
 ### Desafio atendido
 
