@@ -1,7 +1,13 @@
 # MediScanAI-Notredame-FIAP
+
 - Global Solutions 2 - FIAP - Análise e Desenvolvimento de Sistemas | FIAP;
 - Projeto desenvolvido em parceria com a empresa Notredame Intermédica;
 - Observação: Projeto desenvolvido para estudo, sem fins comerciais.
+
+### Hands On
+
+https://github.com/pedroferrarezzo/MediScanAI-Notredame-FIAP/assets/124400471/6e9c8f26-5cf7-4d47-845a-c6649f2e3272
+
 
 ## Pré-requisitos
 
